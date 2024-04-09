@@ -25,3 +25,16 @@ hft codes and notes
 ## Nice docs
 
 - <https://github.com/wilsonfreitas/awesome-quant>
+
+## Bot && Strategies
+
+- <https://github.com/hummingbot/hummingbot> - contains many strategies both CEX and DEX.
+- <https://github.com/Drakkar-Software/OctoBot> - based on ccxt, chatgpt/tradingview strategy.
+
+## Hummingbot
+
+- <https://miner.hummingbot.io/leaderboard>
+- <https://miner.hummingbot.io/>
+- <https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k>
+- <https://github.com/crypto-lake/analysis-sharing>
+- <https://support.hummingbot.io/miner/?l=en>
