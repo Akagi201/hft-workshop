@@ -38,3 +38,7 @@ hft codes and notes
 - <https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k>
 - <https://github.com/crypto-lake/analysis-sharing>
 - <https://support.hummingbot.io/miner/?l=en>
+
+## Performance
+
+- <https://github.com/elastic/otel-profiling-agent>
