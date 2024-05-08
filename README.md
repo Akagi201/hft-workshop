@@ -39,6 +39,25 @@ hft codes and notes
 - <https://github.com/crypto-lake/analysis-sharing>
 - <https://support.hummingbot.io/miner/?l=en>
 
+## TradingView
+
+* <https://pineify.app/>
+
 ## Performance
 
 - <https://github.com/elastic/otel-profiling-agent>
+
+## History market data
+
+- <https://www.binance.com/en/landing/data>
+
+## Trading platform
+
+- <https://investfly.com/>
+- <https://www.quantconnect.com/>
+- <https://alpaca.markets/>
+- <https://nexustrade.io/chat> - ai + trading strategy
+
+## Paid market data
+
+- <https://tardis.dev/>
