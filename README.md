@@ -25,6 +25,11 @@ hft codes and notes
 ## Nice docs
 
 - <https://github.com/wilsonfreitas/awesome-quant>
+- <https://zorro-project.com/manual/>
+
+## Nice book
+
+- <https://www.amazon.com/dp/1546515216>
 
 ## Bot && Strategies
 
