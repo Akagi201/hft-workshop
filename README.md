@@ -30,6 +30,8 @@ hft codes and notes
 ## Nice book
 
 - <https://www.amazon.com/dp/1546515216>
+- <https://xcelab.net/rm/> - `Statistical Rethinking`
+- <https://marabos.nl/atomics/> - `Rust Atomics and Locks` <https://www.youtube.com/watch?v=qhWbuQ8rv5k>
 
 ## Bot && Strategies
 
@@ -46,11 +48,13 @@ hft codes and notes
 
 ## TradingView
 
-* <https://pineify.app/>
+- <https://pineify.app/>
 
 ## Performance
 
 - <https://github.com/elastic/otel-profiling-agent>
+- <https://medium.com/performance-engineering-for-the-ordinary-barbie/profiling-flame-chart-vs-flame-graph-7b212ddf3a83> - Flame Chart(tracing) vs. Flame Graph(profiling)
+- <https://sarah-ek.veganb.tw/blog/mt-async/> - data parallel with rayon
 
 ## History market data
 
