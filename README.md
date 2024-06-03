@@ -46,6 +46,10 @@ hft codes and notes
 - <https://github.com/crypto-lake/analysis-sharing>
 - <https://support.hummingbot.io/miner/?l=en>
 
+## Options
+
+- <https://blog.quantinsti.com/advanced-options-trading/>
+
 ## TradingView
 
 - <https://pineify.app/>
@@ -70,3 +74,8 @@ hft codes and notes
 ## Paid market data
 
 - <https://tardis.dev/>
+
+## MEV Tools
+
+- <https://zeromev.org/>
+- <https://www.mevscanner.com/>
