@@ -75,7 +75,27 @@ hft codes and notes
 
 - <https://tardis.dev/>
 
+## Market data
+
+- <https://tradingeconomics.com/>
+
 ## MEV Tools
 
 - <https://zeromev.org/>
 - <https://www.mevscanner.com/>
+
+## AMM
+
+- <https://uniswaphooks.com/>
+
+## Stocks
+
+- <https://github.com/mason-krause/markethours> - US stock market time
+
+## Intents
+
+- <https://intent.markets/>
+
+## Solana MEV
+
+- <https://sandwiched.me/>
