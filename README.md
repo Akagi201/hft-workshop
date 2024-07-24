@@ -27,6 +27,11 @@ hft codes and notes
 - <https://github.com/wilsonfreitas/awesome-quant>
 - <https://zorro-project.com/manual/>
 
+## Quant Training
+
+- <https://quantquestions.io>
+- <https://www.janestreet.com/static/pdfs/trading-interview.pdf> - quant interview
+
 ## Nice book
 
 - <https://www.amazon.com/dp/1546515216>
@@ -59,6 +64,9 @@ hft codes and notes
 - <https://github.com/elastic/otel-profiling-agent>
 - <https://medium.com/performance-engineering-for-the-ordinary-barbie/profiling-flame-chart-vs-flame-graph-7b212ddf3a83> - Flame Chart(tracing) vs. Flame Graph(profiling)
 - <https://sarah-ek.veganb.tw/blog/mt-async/> - data parallel with rayon
+- <https://github.com/zamazan4ik/awesome-pgo> - pgo
+- <https://doc.rust-lang.org/rustc/profile-guided-optimization.html> - official rust pgo
+- <https://github.com/dendibakh/perf-book/>
 
 ## History market data
 
@@ -99,3 +107,11 @@ hft codes and notes
 ## Solana MEV
 
 - <https://sandwiched.me/>
+
+## DeFi Analysis/Dashboard
+
+- <https://www.config.fyi/> - lending protocol configs
+
+## Math
+
+- <https://www.statlearning.com/>
