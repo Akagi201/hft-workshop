@@ -37,6 +37,12 @@ hft codes and notes
 - <https://www.amazon.com/dp/1546515216>
 - <https://xcelab.net/rm/> - `Statistical Rethinking`
 - <https://marabos.nl/atomics/> - `Rust Atomics and Locks` <https://www.youtube.com/watch?v=qhWbuQ8rv5k>
+- <https://qoppac.blogspot.com/p/books.html>
+- <https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826>
+- <https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146>
+- <https://www.amazon.com/Treasury-Bond-Basis-Depth-Arbitrageurs/dp/0071456104>
+- <https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315>
+- <https://blog.quantinsti.com/books-algorithmic-trading/>
 
 ## Bot && Strategies
 
