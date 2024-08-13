@@ -43,6 +43,7 @@ hft codes and notes
 - <https://www.amazon.com/Treasury-Bond-Basis-Depth-Arbitrageurs/dp/0071456104>
 - <https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315>
 - <https://blog.quantinsti.com/books-algorithmic-trading/>
+- <https://github.com/0xOsiris/Mev_Book>
 
 ## Bot && Strategies
 
@@ -118,6 +119,15 @@ hft codes and notes
 
 - <https://www.config.fyi/> - lending protocol configs
 
+## Stock Analysis
+
+- <https://blockworks.co/ethereum-etf>
+
 ## Math
 
 - <https://www.statlearning.com/>
+
+## MEV Search X AI
+
+* <https://www.mev.fyi/>
+* <https://docs.google.com/spreadsheets/d/1POtuj3DtF3A-uwm4MtKvwNYtnl_PW6DPUYj6x7yJUIs/edit?gid=1299175463#gid=1299175463>
