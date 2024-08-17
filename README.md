@@ -130,5 +130,11 @@ hft codes and notes
 
 ## MEV Search X AI
 
-* <https://www.mev.fyi/>
-* <https://docs.google.com/spreadsheets/d/1POtuj3DtF3A-uwm4MtKvwNYtnl_PW6DPUYj6x7yJUIs/edit?gid=1299175463#gid=1299175463>
+- <https://www.mev.fyi/>
+- <https://docs.google.com/spreadsheets/d/1POtuj3DtF3A-uwm4MtKvwNYtnl_PW6DPUYj6x7yJUIs/edit?gid=1299175463#gid=1299175463>
+
+## Arrow Parquet DB
+
+- [duckdb](https://github.com/duckdb/duckdb) - sql db
+- [chdb](https://github.com/chdb-io/chdb) - sql engine on clickhouse
+- [tonbo](https://tonbo.io/) - embedded kv db
