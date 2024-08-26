@@ -28,6 +28,7 @@ hft codes and notes
 - <https://zorro-project.com/manual/>
 - <https://blog.quantinsti.com/academic-backgrounds-algo-trading/> - education required for algo trading
 - <https://github.com/flashbots/mev-research>
+- <https://github.com/Lilyjjo/mev_reading_list>
 
 ## Quant Training
 
