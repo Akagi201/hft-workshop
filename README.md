@@ -87,7 +87,7 @@ hft codes and notes
 - <https://investfly.com/>
 - <https://www.quantconnect.com/>
 - <https://alpaca.markets/>
-- <https://nexustrade.io/chat> - ai + trading strategy
+- <https://nexustrade.io/chat> - ai + trading strategy, in rust
 
 ## Paid market data
 
@@ -145,3 +145,7 @@ hft codes and notes
 ## MEV-Boost
 
 * <https://orderflow.art/>
+
+## TA
+
+* <https://github.com/austin-starks/ta-rs-improved>
