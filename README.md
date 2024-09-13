@@ -47,6 +47,7 @@ hft codes and notes
 - <https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315>
 - <https://blog.quantinsti.com/books-algorithmic-trading/>
 - <https://github.com/0xOsiris/Mev_Book>
+- <https://www.rareskills.io/uniswap-v2-book>
 
 ## Bot && Strategies
 
@@ -101,7 +102,21 @@ hft codes and notes
 
 - <https://zeromev.org/>
 - <https://www.mevscanner.com/>
+- <https://www.relayscan.io/>
 - <https://sorellalabs.xyz/dashboard>
+- <https://www.mevwatch.info/> - OFAC Compliance
+- <https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md> - MEV relay list(censhorship status)
+- <https://calldata.pics/>
+- <https://censorship.pics/>
+- <https://mevboost.pics/>
+- <https://timing.pics/>
+- <https://tornado.pics/>
+- <https://beaconcha.in/relays>
+- <https://transparency.flashbots.net/>
+- <https://app.metrika.co/ethereum/dashboard/mev/relay-overview?tr=1d>
+- <https://explorer.rated.network/relays?network=mainnet&timeWindow=1d>
+- <https://www.inclusion.watch/>
+- <https://eth.neutralitywatch.com/>
 
 ## AMM
 
