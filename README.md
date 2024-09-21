@@ -111,6 +111,7 @@ hft codes and notes
 - <https://mevboost.pics/>
 - <https://timing.pics/>
 - <https://tornado.pics/>
+- <https://www.searcherbuilder.pics/>
 - <https://beaconcha.in/relays>
 - <https://transparency.flashbots.net/>
 - <https://app.metrika.co/ethereum/dashboard/mev/relay-overview?tr=1d>
