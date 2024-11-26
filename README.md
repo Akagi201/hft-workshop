@@ -118,6 +118,9 @@ hft codes and notes
 - <https://explorer.rated.network/relays?network=mainnet&timeWindow=1d>
 - <https://www.inclusion.watch/>
 - <https://eth.neutralitywatch.com/>
+- <https://github.com/anthias-labs/arena> - LP simulation
+- <https://github.com/SorellaLabs/brontes> - mev explorer
+- <https://libmev.com/> - mev explorer
 
 ## AMM
 
