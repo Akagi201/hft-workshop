@@ -98,6 +98,11 @@ hft codes and notes
 
 - <https://tradingeconomics.com/>
 
+## Dex data
+
+- [bitquery](https://docs.bitquery.io/docs/intro/)
+- [coingecko](https://docs.coingecko.com/reference/introduction)
+
 ## MEV Tools
 
 - <https://zeromev.org/>
@@ -121,6 +126,10 @@ hft codes and notes
 - <https://github.com/anthias-labs/arena> - LP simulation
 - <https://github.com/SorellaLabs/brontes> - mev explorer
 - <https://libmev.com/> - mev explorer
+
+## Dune dashboards
+
+- <https://dune.com/eigenphi_team/eigenphi-builder-performance>
 
 ## AMM
 
@@ -168,3 +177,7 @@ hft codes and notes
 ## TA
 
 * <https://github.com/austin-starks/ta-rs-improved>
+
+## Trading platform
+
+* <https://github.com/nautechsystems/nautilus_trader>
