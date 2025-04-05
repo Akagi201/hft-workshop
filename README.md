@@ -94,6 +94,7 @@ hft codes and notes
 ## Paid market data
 
 - <https://tardis.dev/>
+- <https://financialdata.net/>
 
 ## Market data
 
