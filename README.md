@@ -188,3 +188,7 @@ hft codes and notes
 ## Trading platform
 
 * <https://github.com/nautechsystems/nautilus_trader>
+
+## MEME
+
+* <https://pot2pump.honeypotfinance.xyz/>
