@@ -192,3 +192,9 @@ hft codes and notes
 ## MEME
 
 * <https://pot2pump.honeypotfinance.xyz/>
+* <https://rugcheck.xyz/> - rug check
+* <https://gmgn.ai/>
+
+## Blockchain rpc providers
+
+* <https://nirvanalabs.io/>
